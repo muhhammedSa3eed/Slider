@@ -12,7 +12,7 @@ The **Slider** is a visually appealing project designed to showcase a collection
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/slider.git
+   git clone https://github.com/muhhammedSa3eed/slider.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -29,11 +29,13 @@ The **Slider** is a visually appealing project designed to showcase a collection
 Slider/
 ├── images/            # Folder containing slider images
 ├── index.html         # Main HTML file
-├        
-├── css ├── style.css   # Main Css file for styling the slider
-├       ├── media.css   # Media Css file for media query
-├ 
-└── js  ├── main.js         # JavaScript for slider functionality
+├
+├── css 
+│   ├── style.css     # Main CSS file for styling the slider
+│   ├── media.css     # Media CSS file for media queries
+├
+└── js  
+    ├── main.js       # JavaScript for slider functionality
 ```
 
 ## Technologies Used
@@ -68,8 +70,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or suggestions, feel free to contact:
-- **Your Name**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Your Name**: mohamedsa3eed013@gmail.com
+- **GitHub**: [muhhammedSa3eed](https://github.com/muhhammedSa3eed)
 
 ---
 Thank you for exploring the Slider project!

@@ -1,0 +1,29 @@
+.cursive {
+   font-family: cursive;
+}
+.bg-gray{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.cursor {
+    cursor: pointer;
+}
+.top-30px{
+    top: 30px;
+}
+.flow{
+    position: absolute;
+    bottom: 0;
+    left: 15px;
+    width:calc(100% - 30px);
+    transform: translateY(100%);
+    transition: transform 1s;
+}
+.inner:hover .flow {
+    transform: translateY(-10px);
+}
+.my-modal img {
+    width: 700px;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+}

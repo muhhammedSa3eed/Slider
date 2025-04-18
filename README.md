@@ -65,9 +65,6 @@ Contributions are welcome! To contribute:
    ```
 5. Create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 For any questions or suggestions, feel free to contact:
 - **Your Name**: mohamedsa3eed013@gmail.com

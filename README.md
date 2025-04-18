@@ -29,8 +29,10 @@ The **Slider** is a visually appealing project designed to showcase a collection
 Slider/
 ├── images/            # Folder containing slider images
 ├── index.html         # Main HTML file
-├── style.css          # CSS for styling the slider
-└── script.js          # JavaScript for slider functionality
+├── css ├── style.css   # Main Css file for styling the slider
+├       ├── media.css   # Media Css file for media query
+├ 
+└── js  ├── main.js         # JavaScript for slider functionality
 ```
 
 ## Technologies Used
